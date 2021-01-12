@@ -6,10 +6,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 title-separator: "-"
 
 author:
-  name: TaniaJekyll
-  github: dinhanhthi
+  name: HKQ
+  github: hkq
   facebook: math2it
-  email: dinhanhthi@gmail.com
+  email: hkqi@gmail.com
 
 
 # Build settings
